@@ -105,7 +105,6 @@ display: flex;
 justify-content: space-around;
 flex-wrap: wrap;
 font-size: 25px;
-/*min-width: 500px; */
 color: white;
 margin-bottom: 10px;
 }
@@ -145,5 +144,6 @@ footer{
 display: flex;
 justify-content: space-around;
      }
+
     
 }
